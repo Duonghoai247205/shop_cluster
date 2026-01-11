@@ -314,11 +314,12 @@ jupyter notebook notebooks/customer_clustering_analysis.ipynb
 
 ## 👥 Tác Giả & Đóng Góp
 
-**Nhóm**: 13 
-**Thành Viên**: Nguyễn Hà Phương - Dương Thị Hoài
-**Lớp**: CNTT17-13 
-**Môn học**: Data Mining - FIT DNU  
-**Giảng viên**: ThS. Lê Thị Thùy Trang
+|---|---|
+| 👥 **Nhóm** | 13 |
+| 🎓 **Thành viên** | Nguyễn Hà Phương<br>Dương Thị Hoài |
+| 📚 **Lớp** | CNTT17-13 |
+| 📖 **Môn học** | Data Mining |
+| 👨‍🏫 **Giảng viên** | ThS. Lê Thị Thùy Trang |
 
 ---
   
