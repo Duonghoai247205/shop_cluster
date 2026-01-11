@@ -322,7 +322,7 @@ jupyter notebook notebooks/customer_clustering_analysis.ipynb
 
 ---
   
-**🔗 GitHub**:   
+**🔗 GitHub**: https://github.com/Duonghoai247205/shop_cluster.git  
 **📅 Last Updated**: January 2025
 
 ---
